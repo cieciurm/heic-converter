@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "DefaultHeicConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\tmp 0.25 out"
+    }
+  }
+}
